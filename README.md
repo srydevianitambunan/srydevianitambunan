@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sry Deviani Tambunan</h1>
-<h3 align="center">A student eager to learn in the field of web development</h3>
+<h3 align="center">A student eager to learn about technology </h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React and Vue**
 
-- 📫 How to reach me **srydevianitambunan538@gmail.com**
+- 📫 How to reach me **devianitambunan26@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vseYinSwefGaq39RkhIHyMzbs6uhwzL-/view?usp=sharing](https://drive.google.com/file/d/1vseYinSwefGaq39RkhIHyMzbs6uhwzL-/view?usp=sharing)
 
